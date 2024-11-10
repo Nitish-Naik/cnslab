@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="cnslab",
+    name="cnslab2024",
     version="1.0.0",
-    author="Nitish",
+    author="Nitish Naik",
     author_email="nitishnaik2022@gmail.com",
     description="A Python library for encryption and decryption using AES, DES, RSA, and other ciphers",
     long_description="This library provides tools for encrypting and decrypting data using popular cryptographic algorithms like AES, DES, RSA, and more.",
